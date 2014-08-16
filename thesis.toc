@@ -1,0 +1,6 @@
+\contentsline {chapter}{Acknowledgements}{iv}{chapter*.1}
+\contentsline {chapter}{Abstract}{v}{chapter*.2}
+\contentsline {chapter}{\numberline {1}Juhwan Yoo is a Great Man}{1}{chapter.1}
+\contentsline {chapter}{\numberline {2}I wish I were More Like Juhwan}{3}{chapter.2}
+\contentsline {chapter}{\numberline {A}Other Stuff}{5}{appendix.A}
+\contentsline {chapter}{Bibliography}{6}{appendix*.10}
